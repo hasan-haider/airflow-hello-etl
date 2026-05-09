@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+.env
+.venv/
+venv/
+.airflow/
+logs/
+plugins/__pycache__/
+dags/__pycache__/
+.pytest_cache/
+.DS_Store
+*.sqlite
+*.db
